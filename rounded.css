@@ -1,0 +1,45 @@
+/* rounded by xFaN */
+
+.rounded-xs {
+    border-radius: 4px !important;
+    overflow: hidden;
+}
+
+.rounded-sm {
+    border-radius: 8px !important;
+    overflow: hidden;
+}
+
+.rounded-st {
+    border-radius: 16px !important;
+    overflow: hidden;
+}
+
+.rounded-md {
+    border-radius: 24px !important;
+    overflow: hidden;
+}
+
+.rounded-lg {
+    border-radius: 32px !important;
+    overflow: hidden;
+}
+
+.rounded-xl {
+    border-radius: 48px !important;
+    overflow: hidden;
+}
+
+.rounded-full {
+    border-radius: 9999px !important;
+    overflow: hidden;
+}
+
+[class*="rounded-"] * {
+    border-radius: inherit !important;
+}
+
+[class*="rounded-"] button,
+[class*="rounded-"] .btn {
+    border-radius: 40px !important;
+}
