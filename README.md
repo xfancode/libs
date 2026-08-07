@@ -1,5 +1,8 @@
 # libS
 
+[![Made by xFaN](https://img.shields.io/badge/Made%20by-xFaN-blueviolet)](https://github.com/xfancode)
+[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
+
 Мои библиотеки для ваших проектов.
 
 ## Доступные библиотеки
