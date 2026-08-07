@@ -1,0 +1,209 @@
+/* material3 by xFaN */
+
+.material3-body {
+    background: #222126;
+    margin: 0;
+    padding: 20px;
+    min-height: 100vh;
+    font-family: 'Segoe UI', system-ui, sans-serif;
+}
+
+.material3-button {
+    background: #4f378b;
+    border: none;
+    border-radius: 40px;
+    padding: 10px 20px;
+    font-size: 14px;
+    font-weight: 500;
+    color: #eaddff;
+    cursor: pointer;
+    transition: all 0.2s ease;
+}
+.material3-button:hover {
+    background: #6750a4;
+    transform: scale(1.02);
+}
+.material3-button:active {
+    transform: scale(0.98);
+}
+.material3-button-outline {
+    background: transparent;
+    border: 1px solid #4f378b;
+    color: #eaddff;
+}
+.material3-button-outline:hover {
+    background: #4f378b;
+}
+.material3-button-small {
+    padding: 6px 14px;
+    font-size: 12px;
+}
+.material3-button-large {
+    padding: 14px 28px;
+    font-size: 16px;
+}
+.material3-button-icon {
+    padding: 10px;
+    border-radius: 50%;
+}
+
+.material3-container {
+    background: #2b2930;
+    border: 1px solid #49454f;
+    border-radius: 24px;
+    padding: 20px;
+}
+.material3-container-sm {
+    background: #2b2930;
+    border: 1px solid #49454f;
+    border-radius: 16px;
+    padding: 16px;
+}
+.material3-container-lg {
+    background: #2b2930;
+    border: 1px solid #49454f;
+    border-radius: 32px;
+    padding: 24px;
+}
+
+.material3-card {
+    background: #2b2930;
+    border: 1px solid #49454f;
+    border-radius: 24px;
+    padding: 20px;
+    transition: all 0.2s ease;
+}
+.material3-card:hover {
+    border-color: #6750a4;
+    transform: scale(1.01);
+}
+.material3-card-sm {
+    background: #2b2930;
+    border: 1px solid #49454f;
+    border-radius: 16px;
+    padding: 12px;
+}
+.material3-card-lg {
+    background: #2b2930;
+    border: 1px solid #49454f;
+    border-radius: 32px;
+    padding: 24px;
+}
+
+.material3-input {
+    background: #2b2930;
+    border: 1px solid #49454f;
+    border-radius: 24px;
+    padding: 12px 16px;
+    color: #e6e1e5;
+    font-size: 14px;
+    outline: none;
+    transition: all 0.2s ease;
+    width: 100%;
+}
+.material3-input:focus {
+    border-color: #d0bcff;
+    box-shadow: 0 0 0 2px rgba(208, 188, 255, 0.2);
+}
+.material3-input::placeholder {
+    color: #9e9e9e;
+}
+.material3-textarea {
+    background: #2b2930;
+    border: 1px solid #49454f;
+    border-radius: 24px;
+    padding: 16px;
+    color: #e6e1e5;
+    font-family: 'JetBrains Mono', 'Courier New', monospace;
+    font-size: 13px;
+    line-height: 1.5;
+    resize: vertical;
+    outline: none;
+    width: 100%;
+    min-height: 120px;
+}
+.material3-textarea:focus {
+    border-color: #d0bcff;
+    box-shadow: 0 0 0 2px rgba(208, 188, 255, 0.2);
+}
+
+.material3-title {
+    color: #ffffff;
+    font-size: 24px;
+    font-weight: 600;
+    margin: 0 0 16px 0;
+}
+.material3-subtitle {
+    color: #b0c4de;
+    font-size: 16px;
+    font-weight: 400;
+    margin: 0 0 12px 0;
+}
+.material3-text {
+    color: #e6e1e5;
+    font-size: 14px;
+    line-height: 1.5;
+}
+.material3-text-muted {
+    color: #b0c4de;
+    font-size: 13px;
+}
+.material3-gradient-text {
+    background: linear-gradient(135deg, #d0bcff, #eaddff);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+}
+
+.material3-group {
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+}
+.material3-row {
+    display: flex;
+    gap: 12px;
+    align-items: center;
+}
+.material3-toolbar {
+    display: flex;
+    gap: 8px;
+    align-items: center;
+    padding: 12px 0;
+}
+
+.material3-status {
+    font-size: 13px;
+    padding: 8px 12px;
+    border-radius: 16px;
+    background: #2b2930;
+    color: #b0c4de;
+}
+.material3-status-success {
+    background: #2e7d32;
+    color: #ffffff;
+}
+.material3-status-error {
+    background: #c62828;
+    color: #ffffff;
+}
+.material3-status-warning {
+    background: #f9a825;
+    color: #000000;
+}
+
+.material3-divider {
+    height: 1px;
+    background: #49454f;
+    margin: 16px 0;
+}
+
+.material3-badge {
+    background: #4f378b;
+    color: #eaddff;
+    padding: 4px 10px;
+    border-radius: 40px;
+    font-size: 12px;
+    font-weight: 500;
+    display: inline-block;
+}
