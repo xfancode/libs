@@ -9,15 +9,15 @@
 
 | Библиотека | Описание | Ссылка для подключения |
 |------------|----------|------------------------|
-| `ls.js` | Работа с localStorage | `https://raw.githubusercontent.com/xfancode/libs/refs/heads/main/ls.js` |
-| `avlet.js` | Генерация аватарки из буквы | `https://raw.githubusercontent.com/xfancode/libs/refs/heads/main/avlet.js` |
+| `ls.js` | Работа с localStorage | `https://cdn.jsdelivr.net/gh/xfancode/libs@main/ls.min.js` |
+| `avlet.js` | Генерация аватарки из буквы | `https://cdn.jsdelivr.net/gh/xfancode/libs@main/avlet.min.js` |
 | `material3.css` | Material3 Design | `https://raw.githubusercontent.com/xfancode/libs/refs/heads/main/material3.css` |
-| `oshelper.js` | Характеристики устройства | `https://raw.githubusercontent.com/xfancode/libs/refs/heads/main/oshelper.js` |
+| `oshelper.js` | Характеристики устройства | `https://cdn.jsdelivr.net/gh/xfancode/libs@main/oshelper.min.js` |
 | `rounded.css` | Закругление объектов HTML | `https://raw.githubusercontent.com/xfancode/libs/refs/heads/main/rounded.css` |
-| `speech.js` | Озвучка | `https://raw.githubusercontent.com/xfancode/libs/refs/heads/main/speech.js` |
-| `svgph.js` | SVG-пейзажи | `https://raw.githubusercontent.com/xfancode/libs/refs/heads/main/svgph.js` |
-| `xclip.js` | Библиотека для буфера обмена | `https://raw.githubusercontent.com/xfancode/libs/refs/heads/main/xclip.js` |
-| `dox.js` | Парсер страницы | `https://raw.githubusercontent.com/xfancode/libs/refs/heads/main/dox.js` |
+| `speech.js` | Озвучка | `https://cdn.jsdelivr.net/gh/xfancode/libs@main/speech.min.js` |
+| `svgph.js` | SVG-пейзажи | `https://cdn.jsdelivr.net/gh/xfancode/libs@main/svgph.min.js` |
+| `xclip.js` | Библиотека для буфера обмена | `https://cdn.jsdelivr.net/gh/xfancode/libs@main/xclip.min.js` |
+| `dox.js` | Парсер страницы | `https://cdn.jsdelivr.net/gh/xfancode/libs@main/dox.min.js` |
 
 ---
 
