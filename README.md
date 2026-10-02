@@ -26,7 +26,7 @@
 Просто скопируйте ссылку из таблицы и вставьте в ваш HTML:
 
 ```html
-<script src="https://cdn.jsdelivr.net/gh/xfancode/libs@main/название_библиотки.min.js"></script>
+<script src="https://cdn.jsdelivr.net/gh/xfancode/libs@main/название_библиотеки.min.js"></script>
 <link rel="stylesheet" href="https://raw.githubusercontent.com/xfancode/libs/refs/heads/main/название_библиотеки.css">
 ```
 
